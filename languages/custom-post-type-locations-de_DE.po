@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type Locations v0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-02-01 17:46:09+0000\n"
+"Last-Translator: horttcore <me@horttcore.de>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: classes/custom-post-type-locations.admin.php:49
+#: classes/custom-post-type-locations.admin.php:191
+#@ custom-post-type-locations
+msgid "Location"
+msgstr "Standort"
+
+#: classes/custom-post-type-locations.admin.php:50
+#@ custom-post-type-locations
+msgid "Contact"
+msgstr "Kontakt"
+
+#: classes/custom-post-type-locations.admin.php:220
+#@ custom-post-type-locations
+msgid "Street"
+msgstr "Straße"
+
+#: classes/custom-post-type-locations.admin.php:220
+#@ custom-post-type-locations
+msgid "Nr."
+msgstr "Nr."
+
+#: classes/custom-post-type-locations.admin.php:228
+#@ custom-post-type-locations
+msgid "Addition to address"
+msgstr "Adresszusatz"
+
+#: classes/custom-post-type-locations.admin.php:235
+#@ custom-post-type-locations
+msgid "ZIP"
+msgstr "PLZ"
+
+#: classes/custom-post-type-locations.admin.php:235
+#@ custom-post-type-locations
+msgid "City"
+msgstr "Stadt"
+
+#: classes/custom-post-type-locations.admin.php:243
+#@ custom-post-type-locations
+msgid "Country"
+msgstr "Land"
+
+#: classes/custom-post-type-locations.admin.php:248
+#@ custom-post-type-locations
+msgid "Latitude"
+msgstr "Breitengrad"
+
+#: classes/custom-post-type-locations.admin.php:248
+#@ custom-post-type-locations
+msgid "Longitude"
+msgstr "Längengrad"
+
+#: classes/custom-post-type-locations.admin.php:252
+#@ custom-post-type-locations
+msgid "Get by address"
+msgstr "Abfragen"
+
+#: classes/custom-post-type-locations.admin.php:283
+#@ custom-post-type-locations
+msgid "Phone"
+msgstr "Telefon"
+
+#: classes/custom-post-type-locations.admin.php:290
+#@ custom-post-type-locations
+msgid "Fax"
+msgstr "Fax"
+
+#: classes/custom-post-type-locations.admin.php:297
+#@ custom-post-type-locations
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: classes/custom-post-type-locations.admin.php:330
+#: classes/custom-post-type-locations.admin.php:333
+#@ custom-post-type-locations
+msgid "Location updated."
+msgstr "Standort aktualisiert."
+
+#: classes/custom-post-type-locations.admin.php:331
+#@ default
+msgid "Custom field updated."
+msgstr ""
+
+#: classes/custom-post-type-locations.admin.php:332
+#@ default
+msgid "Custom field deleted."
+msgstr ""
+
+#: classes/custom-post-type-locations.admin.php:334
+#, php-format
+#@ custom-post-type-locations
+msgid "Location restored to revision from %s"
+msgstr "Standort aus Überarbeitung vom %s wiederhergestellt"
+
+#: classes/custom-post-type-locations.admin.php:335
+#@ custom-post-type-locations
+msgid "Location published."
+msgstr "Standort veröffentlicht."
+
+#: classes/custom-post-type-locations.admin.php:336
+#@ custom-post-type-locations
+msgid "Location saved."
+msgstr "Standort gespeichert."
+
+#: classes/custom-post-type-locations.admin.php:337
+#@ custom-post-type-locations
+msgid "Location submitted."
+msgstr "Standort übertragen."
+
+#: classes/custom-post-type-locations.admin.php:338
+#, php-format
+#@ custom-post-type-locations
+msgid "Location scheduled for: <strong>%1$s</strong>."
+msgstr "Veröffentlichung geplant für: <strong>%1$s</strong>."
+
+#: classes/custom-post-type-locations.admin.php:338
+#@ custom-post-type-locations
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: classes/custom-post-type-locations.admin.php:339
+#@ custom-post-type-locations
+msgid "Location draft updated."
+msgstr "Der Standortentwurf wurde aktualisiert."
+
+#: classes/custom-post-type-locations.admin.php:346
+#@ custom-post-type-locations
+msgid "View location"
+msgstr "Standort ansehen"
+
+#: classes/custom-post-type-locations.admin.php:352
+#@ custom-post-type-locations
+msgid "Preview location"
+msgstr "Standortvorschau"
+
+#: classes/custom-post-type-locations.php:61
+#@ custom-post-type-locations
+msgctxt "post type singular name"
+msgid "Location"
+msgstr "Standort"
+
+#: classes/custom-post-type-locations.php:62
+#@ custom-post-type-locations
+msgctxt "Location"
+msgid "Add New"
+msgstr "Erstellen"
+
+#: classes/custom-post-type-locations.php:63
+#@ custom-post-type-locations
+msgid "Add New Location"
+msgstr "Neuer Standort erstellen"
+
+#: classes/custom-post-type-locations.php:64
+#@ custom-post-type-locations
+msgid "Edit Location"
+msgstr "Standort bearbeiten"
+
+#: classes/custom-post-type-locations.php:65
+#@ custom-post-type-locations
+msgid "New Location"
+msgstr "Neuer Standort"
+
+#: classes/custom-post-type-locations.php:66
+#@ custom-post-type-locations
+msgid "View Location"
+msgstr "Standort ansehen"
+
+#: classes/custom-post-type-locations.php:67
+#@ custom-post-type-locations
+msgid "Search Location"
+msgstr "Standorte durchsuchen"
+
+#: classes/custom-post-type-locations.php:68
+#@ custom-post-type-locations
+msgid "No Location found"
+msgstr "Keine Standorte gefunden"
+
+#: classes/custom-post-type-locations.php:69
+#@ custom-post-type-locations
+msgid "No Location found in Trash"
+msgstr "Keine Standorte im Papierkorb gefunden"
+
+#: classes/custom-post-type-locations.php:79
+#@ custom-post-type-locations
+msgctxt "Post Type Slug"
+msgid "locations"
+msgstr "standorte"
+
+#. translators: plugin header field 'Name'
+#: plugin.php:0
+#@ custom-post-type-locations
+msgid "Custom Post Type Locations"
+msgstr "Custom Post Type Standorte"
+
+#. translators: plugin header field 'PluginURI'
+#. translators: plugin header field 'AuthorURI'
+#: plugin.php:0
+#@ custom-post-type-locations
+msgid "http://horttcore.de"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: plugin.php:0
+#@ custom-post-type-locations
+msgid "Manage locations"
+msgstr "Verwaltung von Standorten"
+
+#. translators: plugin header field 'Author'
+#: plugin.php:0
+#@ custom-post-type-locations
+msgid "Ralf Hortt"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: plugin.php:0
+#@ custom-post-type-locations
+msgid "0.4"
+msgstr ""
+
+#: classes/custom-post-type-locations.php:60
+#@ custom-post-type-locations
+msgctxt "post type general name"
+msgid "Locations"
+msgstr "Standorte"
+
+#: classes/custom-post-type-locations.php:71
+#@ custom-post-type-locations
+msgid "Locations"
+msgstr "Standorte"
+
