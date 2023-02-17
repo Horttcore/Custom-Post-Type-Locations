@@ -1,0 +1,20 @@
+{
+  "name": "ralfhortt/wp-meta-box-address",
+  "description": "A WordPress meta box for address data",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ralf Hortt",
+      "email": "mail@ralfhortt.dev"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "RalfHortt\\MetaBoxAddress\\": "src/"
+    }
+  },
+  "require": {
+    "ralfhortt/wp-meta-box": "^3",
+    "ralfhortt/translator-service": "^1.0"
+  }
+}

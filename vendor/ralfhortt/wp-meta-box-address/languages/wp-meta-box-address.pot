@@ -1,0 +1,454 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2020-11-06T15:34:36+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: wp-meta-box-address\n"
+
+#: src/MetaBoxAddress.php:13
+msgid "Address"
+msgstr ""
+
+#: src/MetaBoxAddress.php:43
+msgid "Street"
+msgstr ""
+
+#: src/MetaBoxAddress.php:50
+msgid "Number"
+msgstr ""
+
+#: src/MetaBoxAddress.php:57
+msgid "Address additional"
+msgstr ""
+
+#: src/MetaBoxAddress.php:64
+msgid "ZIP Code"
+msgstr ""
+
+#: src/MetaBoxAddress.php:71
+msgid "City"
+msgstr ""
+
+#: src/MetaBoxAddress.php:78
+msgid "Country"
+msgstr ""
+
+#: src/MetaBoxAddress.php:82
+msgid "Albania"
+msgstr ""
+
+#: src/MetaBoxAddress.php:83
+msgid "Algeria"
+msgstr ""
+
+#: src/MetaBoxAddress.php:84
+msgid "Argentina"
+msgstr ""
+
+#: src/MetaBoxAddress.php:85
+msgid "Australia"
+msgstr ""
+
+#: src/MetaBoxAddress.php:86
+msgid "Austria"
+msgstr ""
+
+#: src/MetaBoxAddress.php:87
+msgid "Azerbaijan"
+msgstr ""
+
+#: src/MetaBoxAddress.php:88
+msgid "Bahrain"
+msgstr ""
+
+#: src/MetaBoxAddress.php:89
+msgid "Basque"
+msgstr ""
+
+#: src/MetaBoxAddress.php:90
+msgid "Belarus"
+msgstr ""
+
+#: src/MetaBoxAddress.php:91
+msgid "Belgium"
+msgstr ""
+
+#: src/MetaBoxAddress.php:92
+msgid "Bolivia"
+msgstr ""
+
+#: src/MetaBoxAddress.php:93
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: src/MetaBoxAddress.php:94
+msgid "Brazil"
+msgstr ""
+
+#: src/MetaBoxAddress.php:95
+msgid "Bulgaria"
+msgstr ""
+
+#: src/MetaBoxAddress.php:96
+msgid "Canada"
+msgstr ""
+
+#: src/MetaBoxAddress.php:97
+msgid "Chile"
+msgstr ""
+
+#: src/MetaBoxAddress.php:98
+msgid "China"
+msgstr ""
+
+#: src/MetaBoxAddress.php:99
+msgid "Colombia"
+msgstr ""
+
+#: src/MetaBoxAddress.php:100
+msgid "Costa Rica"
+msgstr ""
+
+#: src/MetaBoxAddress.php:101
+msgid "Croatia"
+msgstr ""
+
+#: src/MetaBoxAddress.php:102
+msgid "Czech Republic"
+msgstr ""
+
+#: src/MetaBoxAddress.php:103
+msgid "Denmark"
+msgstr ""
+
+#: src/MetaBoxAddress.php:104
+msgid "Dominican Republic"
+msgstr ""
+
+#: src/MetaBoxAddress.php:105
+msgid "Ecuador"
+msgstr ""
+
+#: src/MetaBoxAddress.php:106
+msgid "Egypt"
+msgstr ""
+
+#: src/MetaBoxAddress.php:107
+msgid "El Salvador"
+msgstr ""
+
+#: src/MetaBoxAddress.php:108
+msgid "Espana"
+msgstr ""
+
+#: src/MetaBoxAddress.php:109
+msgid "Estonia"
+msgstr ""
+
+#: src/MetaBoxAddress.php:110
+msgid "Faroe Islands"
+msgstr ""
+
+#: src/MetaBoxAddress.php:111
+msgid "Finland"
+msgstr ""
+
+#: src/MetaBoxAddress.php:112
+msgid "Former Yugoslav Republic of Macedonia"
+msgstr ""
+
+#: src/MetaBoxAddress.php:113
+msgid "France"
+msgstr ""
+
+#: src/MetaBoxAddress.php:114
+msgid "Germany"
+msgstr ""
+
+#: src/MetaBoxAddress.php:115
+msgid "Greece"
+msgstr ""
+
+#: src/MetaBoxAddress.php:116
+msgid "Guatemala"
+msgstr ""
+
+#: src/MetaBoxAddress.php:117
+msgid "Honduras"
+msgstr ""
+
+#: src/MetaBoxAddress.php:118
+msgid "Hong Kong S.A.R."
+msgstr ""
+
+#: src/MetaBoxAddress.php:119
+msgid "Hungary"
+msgstr ""
+
+#: src/MetaBoxAddress.php:120
+msgid "Iceland"
+msgstr ""
+
+#: src/MetaBoxAddress.php:121
+msgid "India"
+msgstr ""
+
+#: src/MetaBoxAddress.php:122
+msgid "Indonesia"
+msgstr ""
+
+#: src/MetaBoxAddress.php:123
+msgid "Iran"
+msgstr ""
+
+#: src/MetaBoxAddress.php:124
+msgid "Iraq"
+msgstr ""
+
+#: src/MetaBoxAddress.php:125
+msgid "Ireland"
+msgstr ""
+
+#: src/MetaBoxAddress.php:126
+msgid "Israel"
+msgstr ""
+
+#: src/MetaBoxAddress.php:127
+msgid "Italy"
+msgstr ""
+
+#: src/MetaBoxAddress.php:128
+msgid "Japan"
+msgstr ""
+
+#: src/MetaBoxAddress.php:129
+msgid "Jordan"
+msgstr ""
+
+#: src/MetaBoxAddress.php:130
+msgid "Kazakhstan"
+msgstr ""
+
+#: src/MetaBoxAddress.php:131
+msgid "Korea"
+msgstr ""
+
+#: src/MetaBoxAddress.php:132
+msgid "Kuwait"
+msgstr ""
+
+#: src/MetaBoxAddress.php:133
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: src/MetaBoxAddress.php:134
+msgid "Latvia"
+msgstr ""
+
+#: src/MetaBoxAddress.php:135
+msgid "Lebanon"
+msgstr ""
+
+#: src/MetaBoxAddress.php:136
+msgid "Libya"
+msgstr ""
+
+#: src/MetaBoxAddress.php:137
+msgid "Lithuania"
+msgstr ""
+
+#: src/MetaBoxAddress.php:138
+msgid "Luxembourg"
+msgstr ""
+
+#: src/MetaBoxAddress.php:139
+msgid "Macau S.A.R."
+msgstr ""
+
+#: src/MetaBoxAddress.php:140
+msgid "Mexico"
+msgstr ""
+
+#: src/MetaBoxAddress.php:141
+msgid "Mongolia"
+msgstr ""
+
+#: src/MetaBoxAddress.php:142
+msgid "Morocco"
+msgstr ""
+
+#: src/MetaBoxAddress.php:143
+msgid "Netherlands"
+msgstr ""
+
+#: src/MetaBoxAddress.php:144
+msgid "New Zealand"
+msgstr ""
+
+#: src/MetaBoxAddress.php:145
+msgid "Nicaragua"
+msgstr ""
+
+#: src/MetaBoxAddress.php:146
+msgid "Norway"
+msgstr ""
+
+#: src/MetaBoxAddress.php:147
+msgid "Oman"
+msgstr ""
+
+#: src/MetaBoxAddress.php:148
+msgid "Panama"
+msgstr ""
+
+#: src/MetaBoxAddress.php:149
+msgid "Paraguay"
+msgstr ""
+
+#: src/MetaBoxAddress.php:150
+msgid "Peru"
+msgstr ""
+
+#: src/MetaBoxAddress.php:151
+msgid "Philippines"
+msgstr ""
+
+#: src/MetaBoxAddress.php:152
+msgid "Poland"
+msgstr ""
+
+#: src/MetaBoxAddress.php:153
+msgid "Portugal"
+msgstr ""
+
+#: src/MetaBoxAddress.php:154
+msgid "Puerto Rico"
+msgstr ""
+
+#: src/MetaBoxAddress.php:155
+msgid "Qatar"
+msgstr ""
+
+#: src/MetaBoxAddress.php:156
+msgid "Republic of the Philippines"
+msgstr ""
+
+#: src/MetaBoxAddress.php:157
+msgid "Romania"
+msgstr ""
+
+#: src/MetaBoxAddress.php:158
+msgid "Russia"
+msgstr ""
+
+#: src/MetaBoxAddress.php:159
+msgid "Saudi Arabia"
+msgstr ""
+
+#: src/MetaBoxAddress.php:160
+msgid "Serbia and Montenegro"
+msgstr ""
+
+#: src/MetaBoxAddress.php:161
+msgid "Serbia"
+msgstr ""
+
+#: src/MetaBoxAddress.php:162
+msgid "Singapore"
+msgstr ""
+
+#: src/MetaBoxAddress.php:163
+msgid "Slovakia"
+msgstr ""
+
+#: src/MetaBoxAddress.php:164
+msgid "Slovenia"
+msgstr ""
+
+#: src/MetaBoxAddress.php:165
+msgid "South Africa"
+msgstr ""
+
+#: src/MetaBoxAddress.php:166
+#: src/MetaBoxAddress.php:167
+msgid "Spain"
+msgstr ""
+
+#: src/MetaBoxAddress.php:168
+msgid "Sweden"
+msgstr ""
+
+#: src/MetaBoxAddress.php:169
+msgid "Switzerland"
+msgstr ""
+
+#: src/MetaBoxAddress.php:170
+msgid "Syria"
+msgstr ""
+
+#: src/MetaBoxAddress.php:171
+msgid "Taiwan"
+msgstr ""
+
+#: src/MetaBoxAddress.php:172
+msgid "Thailand"
+msgstr ""
+
+#: src/MetaBoxAddress.php:173
+msgid "Tunisia"
+msgstr ""
+
+#: src/MetaBoxAddress.php:174
+msgid "Turkey"
+msgstr ""
+
+#: src/MetaBoxAddress.php:175
+msgid "U.A.E."
+msgstr ""
+
+#: src/MetaBoxAddress.php:176
+msgid "Ukraine"
+msgstr ""
+
+#: src/MetaBoxAddress.php:177
+msgid "United Kingdom"
+msgstr ""
+
+#: src/MetaBoxAddress.php:178
+msgid "United States"
+msgstr ""
+
+#: src/MetaBoxAddress.php:179
+msgid "Uruguay"
+msgstr ""
+
+#: src/MetaBoxAddress.php:180
+msgid "Venezuela"
+msgstr ""
+
+#: src/MetaBoxAddress.php:181
+msgid "Viet Nam"
+msgstr ""
+
+#: src/MetaBoxAddress.php:182
+msgid "Yemen"
+msgstr ""
+
+#: src/MetaBoxAddress.php:190
+msgid "Latitude"
+msgstr ""
+
+#: src/MetaBoxAddress.php:197
+msgid "Longitude"
+msgstr ""
+
+#: src/MetaBoxAddress.php:206
+msgid "Preview"
+msgstr ""

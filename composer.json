@@ -1,0 +1,26 @@
+{
+    "name": "ralfhortt/custom-post-type-location",
+    "description": "A WordPress custom post type for managing locations",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ralf Hortt",
+            "email": "mail@ralfhortt.dev"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RalfHortt\\CustomPostTypeLocations\\": "src/"
+        },
+        "files": [
+            "inc/template-tags.php"
+        ]
+    },
+    "require": {
+        "horttcore/wp-custom-post-type": "dev-master",
+        "ralfhortt/wp-plugin": "^2.0",
+        "ralfhortt/wp-meta-box": "^3",
+        "ralfhortt/wp-meta-box-address": "^2.1"
+    }
+}
